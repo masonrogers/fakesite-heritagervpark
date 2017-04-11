@@ -1,0 +1,35 @@
+h1{
+	color: white;
+	background-color: #140B39;
+	text-align: center;
+	font-family: 'Kanit', sans-serif;
+}
+h3{
+	text-align: center;
+	color:black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+h4{
+	text-align: center;
+	color:black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+p{
+	text-align: center;
+	color:gray;
+}
+a{
+	color:#29176E;
+}
+.redText{
+	color: red;
+}
+.greenText{
+	color:green;
+}
+.blackText{
+	color:black;
+}
+ul{
+	color:gray;
+}
